@@ -1,3 +1,10 @@
+[‏07-‏02-‏2019 14:42]  Caliskan, Tobias:  
+https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples 
+  
+[‏07-‏02-‏2019 15:03]  Caliskan, Tobias:  
+https://github.com/Microsoft/botbuilder-tools/tree/master/packages/Ludown 
+
+
 # botfuel-sample-starter
 
 This sample bot is used in [**Getting Started**](https://tutorials.botfuel.io/#/codelab/getting-started?step=1).
